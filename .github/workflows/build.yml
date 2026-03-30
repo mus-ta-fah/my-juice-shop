@@ -4,6 +4,7 @@ on:
     branches:
       - master
       - failles
+      - demo-securite
   pull_request:
     branches:
       - master
