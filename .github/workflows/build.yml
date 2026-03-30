@@ -3,8 +3,8 @@ on:
   push:
     branches:
       - master
-      - failles
-      - demo-securite
+      - test
+
   pull_request:
     branches:
       - master
